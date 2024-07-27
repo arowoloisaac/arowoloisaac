@@ -1,6 +1,6 @@
 
 
-## I'm Arowolo Isaac, a full-time full-stack developer 👨‍💻  
+## I'm Arowolo Isaac, a full-stack developer 👨‍💻  
 ### <div align="center"></div>  
   
 
