@@ -1,27 +1,59 @@
-Hi 👋 My name is Isaac
-======================
-
-Web Developer
--------------
-
-* 🌍  I'm based in Russia
-* ✉️  You can contact me at [arowoloisaacabiodun01@gmail.com](mailto:arowoloisaacabiodun01@gmail.com)
-* 🧠  I'm learning .Net
-
-### Skills
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+## I'm Arowolo Isaac, a full-time full-stack developer 👨‍💻  
+### <div align="center"></div>  
+  
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/arowoloisaac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/zikoboy_1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### 🧑‍💻 About Me  
+- 🏫 I am currently studying Software Engineering at Tomsk State University  
+  
 
-### Badges
+- 🌱 I’m currently learning and improving more on back-end development  
+  
 
-<b>My GitHub Stats</b>
+- ❓ Ask me about anything related to .NET Core and related technologies  
+  
 
-<a href="http://www.github.com/arowoloisaac"><img src="https://github-readme-stats.vercel.app/api?username=arowoloisaac&show_icons=true&hide=stars,prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arowoloisaac's GitHub stats" /></a>
+- ✉️  You can contact me at arowoloisaacabiodun01@gmail.com  
+  
+
+<br/>  
+
+
+
+
+## My Skill Set  
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%; overflow-x: auto;">
+  <div style="text-align: center;">
+    <h3>Languages</h3>
+    <div>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/></a>
+      <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/></a>
+      <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"/></a>
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/></a>
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <h3>Platforms</h3>
+    <div>
+      <a href="https://github.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"/></a>
+      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"/></a>
+      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"/></a>
+      <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx"/></a>
+    </div>
+  </div>
+  <div style="text-align: center;">
+    <h3>Frameworks</h3>
+    <div>
+      <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core"/></a>
+      <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"/></a>
+      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"/></a>
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px; height: 25px;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask"/></a>
+    </div>
+  </div>
+</div>
+
