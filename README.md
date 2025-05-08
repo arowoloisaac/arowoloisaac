@@ -7,7 +7,7 @@
 
 
 ### 🧑‍💻 About Me  
-- 🏫 I am currently studying Software Engineering at Tomsk State University  
+- 🏫  Graduate of Software Engineering at Tomsk State University  
   
 
 - 🌱 I’m currently learning and improving more on back-end development  
