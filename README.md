@@ -118,6 +118,24 @@ I am a software engineering graduate with hands-on experience designing and buil
 - Secure role-based and organization-based architectures
 - Cloud-ready and microservice-friendly designs
 - Continuous growth as a software engineer
+- FastAPI integration
+
+---
+
+## 🤝 Open to Opportunities
+
+I am currently **open to job opportunities, internships, and collaborations**, especially in:
+
+- Backend / Full-stack Software Engineering
+- .NET & API Development
+- System Design & Architecture
+- Remote or On-site Roles
+- FastAPI
+- Frontend Development
+
+I am excited to work on impactful projects, collaborate with talented teams, and contribute to building high-quality software solutions.
+
+📬 Feel free to reach out via email.
 
 ---
 
