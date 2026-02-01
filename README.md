@@ -67,8 +67,9 @@ I am a software engineering graduate with hands-on experience designing and buil
 
 I am currently **open to job opportunities, internships, and collaborations**, either remotely or onsite. I am eager to work on projects, collaborate with teams, and contribute to building software solutions.
 
-You can reach out to me via Email - Email: **arowoloisaacabiodun01@gmail.com**
-Telegram: arowoloisaac
+You can reach out to me via:
+- Email: **arowoloisaacabiodun01@gmail.com**
+- Telegram: arowoloisaac
 
 
-> _Always learning. Always building._
+> _learning don't stop. Always building._
