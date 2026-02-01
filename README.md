@@ -72,4 +72,4 @@ You can reach out to me via:
 - Telegram: arowoloisaac
 
 
-> _learning don't stop. Always building._
+> _learning does't stop. Always building._
