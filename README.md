@@ -59,7 +59,6 @@ I am a software engineering graduate with hands-on experience designing and buil
 ## 📊 GitHub Stats
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=arowoloisaac&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arowoloisaac&layout=compact)
 
 ---
 
