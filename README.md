@@ -6,7 +6,7 @@
 
 I am a software engineering graduate with hands-on experience designing and building applications and APIs. I've a great knowledge in frontend & backend development, system design & architecture, and  using modern technologies.
 
-- Backend-focused (.NET, Gin, FastAPI)
+- Backend-focused (.NET, Flask, FastAPI, and e.t.c)
 - Frontend-focused (React, Vue, Tailwind, Shadcn)
 - system analysis and architecture skills
 - I love to build software and expand my knowledge 
@@ -28,7 +28,6 @@ I am a software engineering graduate with hands-on experience designing and buil
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-.NET-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![Go](https://img.shields.io/badge/Go-skyblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-TS-blue)
 ![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey)
@@ -37,7 +36,6 @@ I am a software engineering graduate with hands-on experience designing and buil
 - ASP.NET Core
 - FastAPI
 - Databases
-- Gin
 - Shadcn
 - Tailwind
 - React
