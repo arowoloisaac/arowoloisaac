@@ -54,12 +54,6 @@ I am a software engineering graduate with hands-on experience designing and buil
 
 ---
 
-## 📊 GitHub Stats
-
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=arowoloisaac&show_icons=true&theme=default)
-
----
-
 ## 🤝 Open to Opportunities
 
 I am currently **open to job opportunities, internships, and collaborations**, either remotely or onsite. I am eager to work on projects, collaborate with teams, and contribute to building software solutions.
